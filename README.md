@@ -1,5 +1,4 @@
 
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:050816,25:071D3A,50:123B65,75:5B21B6,100:00F5D4&text=VISION-X%20AI&fontSize=76&fontColor=FFFFFF&fontAlignY=45&desc=REAL-TIME%20MULTIMODAL%20COMPUTER%20VISION&descSize=13&descAlignY=68&animation=fadeIn" width="100%" alt="VISION-X AI — Multimodal Computer Vision"/>
